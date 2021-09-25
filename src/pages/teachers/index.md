@@ -25,7 +25,7 @@ image: /img/pexels-julia-m-cameron-4144923.jpg
 **▶ 뉴질랜드 명문고 Takapuna Grammar School 졸업**
 
 **▶ 해외거주 기간 10년**
-
+- - -
 ![](/img/스크린샷-2021-09-26-오전-1.50.07.png)
 
 **▶ 정부기관 및 기업체 영어강사 2년차**
