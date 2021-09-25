@@ -4,7 +4,7 @@ path: /teachers
 title: Teachers
 image: /img/pexels-julia-m-cameron-4144923.jpg
 ---
-![](/img/image1.png)
+![](/img/스크린샷-2021-09-26-오전-1.45.22.png)
 
 **▶전문직종 및 기업체 강의 10년차**
 
@@ -19,8 +19,6 @@ image: /img/pexels-julia-m-cameron-4144923.jpg
 * **삼일회계법인, 딜로이트** 회계영어
 * **김앤장 변호사 및 검사** 법률 영어
 * YBM 신촌점 작문 & 스피킹 시험 강사
-
-
 
 **▶ 호주 Sydney University 졸업**
 
