@@ -59,6 +59,7 @@ const TeachersPage = ({ data }) => {
   return (
     <Layout>
       <TeachersPageTemplate
+        image={post.frontmatter.image}
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
