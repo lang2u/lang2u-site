@@ -1,19 +1,10 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: 회사 소개
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+강사로서의 10년간의 다양한 강의 경험을 토대로 최고의 맞춤형(customized) 서비스를 제공하는 언어 수업을 제공하고자 시작한 랭귀지투유입니다. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+올 초 시작된 **수의사 대상 메디컬 수업** 역시 랭귀지투유에서 처음으로 시작한 **전문직 특화 수업(고위공무원, 법조인, 의사, CEO등)**으로 커리큘럼 자체 개발 및 다양한 프로그램을 제공하며 현재 온라인& 오픈 라인 수업 및 2차 동물병원 출강, 서울시& 경기도시 수의사회 연수 프로그램까지 전적으로 니즈에 맞추어 강의를 성공적으로 진행하고 있습니다.  
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+이 외에도 현대오일, GM, 버버리코리아, 기산전자, 대보건설 등 **대기업 임원진 원투원 수업** 및 그룹수업을 진행 중이며 자체 개발한 커리큘럼을 바탕으로 <엄마를 위한 맘스 토크>등 각 대상을 위한 맞춤형 강의를 제공합니다.
