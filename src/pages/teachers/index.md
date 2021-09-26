@@ -4,7 +4,7 @@ path: /teachers
 title: Teachers
 image: /img/pexels-julia-m-cameron-4144923.jpg
 ---
-![](/img/스크린샷-2021-09-26-오전-1.45.22.png)
+![](/img/yjseo.jpg)
 
 **▶전문직종 및 기업체 강의 10년차**
 
@@ -28,7 +28,9 @@ image: /img/pexels-julia-m-cameron-4144923.jpg
 
 - - -
 
-![](/img/스크린샷-2021-09-26-오전-1.50.07.png)
+
+
+![](/img/crystalseo.jpg)
 
 **▶ 정부기관 및 기업체 영어강사 2년차**
 
