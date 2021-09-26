@@ -30,7 +30,7 @@ export const TeachersPageTemplate = ({ title, image, content, contentComponent }
         </h2>
       </div>
       <section className="section section--gradient">
-        <div className="container">
+        <div className="container teachers">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="section">

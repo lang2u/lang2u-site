@@ -4,13 +4,14 @@ path: /teachers
 title: Teachers
 image: /img/pexels-julia-m-cameron-4144923.jpg
 ---
+### YJ Seo
 ![](/img/yjseo.jpg)
 
 **▶전문직종 및 기업체 강의 10년차**
 
 ※ 강의 이력입니다.
 
-* **국립외교원** 2급 공무원 전담 강
+* **국립외교원** 2급 공무원 전담 강의
 * **<수의사 영어>** 자체개발 프로그램 강의
 * **<엄마들의 영어>** 자체개발 프로그램 강의
 * **대기업**(삼성, LG, 롯데, GM, 현대, 버버리코리아) **사원 및 임원급** 비즈니스 영어
@@ -26,10 +27,8 @@ image: /img/pexels-julia-m-cameron-4144923.jpg
 
 **▶ 해외거주 기간 10년**
 
-- - -
-
-
-
+---
+### Crystal Seo
 ![](/img/crystalseo.jpg)
 
 **▶ 정부기관 및 기업체 영어강사 2년차**
