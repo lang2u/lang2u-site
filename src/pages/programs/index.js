@@ -39,7 +39,7 @@ export default class Index extends React.Component {
                 <div
                     className="full-width-image-container margin-top-0"
                     style={{
-                        backgroundImage: 'url(/img/pexels-andrea-piacquadio-3769714.jpg)',
+                        backgroundImage: 'url(/img/pexels-shvets-production-7516363.jpg)',
                     }}
                 >
                     <h2
